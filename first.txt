@@ -1,1 +1,3 @@
 hello devloper !
+take input
+show result
